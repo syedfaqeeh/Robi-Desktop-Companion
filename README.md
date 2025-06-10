@@ -50,7 +50,7 @@ Follow these steps to upload the sketch to your Arduino:
 ![Assembled Unit](https://github.com/syedfaqeeh/Robi-Desktop-Companion/blob/main/Images/robi1.jpg)
 
 ## 🎥 Demo Video
-[Watch the Demo](#) <!-- Replace # with your demo video link -->
+[Watch the Demo](https://github.com/syedfaqeeh/Robi-Desktop-Companion/blob/main/Videos/robi%20close%20up.mp4) <!-- Replace # with your demo video link -->
 
 ## 🖼️ OLED Animations
 | Animation | Description |
