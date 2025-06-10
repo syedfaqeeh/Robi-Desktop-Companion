@@ -63,13 +63,3 @@ Contributions are welcome! Feel free to open an issue or submit a pull request t
 
 ## 📄 License
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
-
-
-
-
-
-## 🚀 Getting Started
-
-### 📂 Clone the Repository
-```bash
-git clone https://github.com/syedfaqeeh/robi-desktop-companion.git
