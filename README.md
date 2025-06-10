@@ -44,7 +44,7 @@ Follow these steps to upload the sketch to your Arduino:
 ## 📸 Images
 | 3D Model | Assembled Unit |
 |----------|----------------|
-| ![3D Model](Images/robi render image.21.jpg) | ![Assembled Unit](images/assembled_unit.jpg) |
+| ![3D Model](https://github.com/syedfaqeeh/Robi-Desktop-Companion/blob/main/Images/robi%20render%20image.21.jpg)) | ![Assembled Unit](images/assembled_unit.jpg) |
 
 ## 🎥 Demo Video
 [Watch the Demo](#) <!-- Replace # with your demo video link -->
