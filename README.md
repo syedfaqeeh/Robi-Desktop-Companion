@@ -49,18 +49,14 @@ Follow these steps to upload the sketch to your Arduino:
 ### Assembled Unit
 ![Assembled Unit](https://github.com/syedfaqeeh/Robi-Desktop-Companion/blob/main/Images/robi1.jpg)
 
-## 🎥 Demo Video
+## ## 🖼️ OLED Animations
 ![Demo](https://github.com/syedfaqeeh/Robi-Desktop-Companion/blob/main/Videos/Robi%20gif.gif) <!-- Replace # with your demo video link -->
 
-## 🖼️ OLED Animations
-| Animation | Description |
-|-----------|-------------|
 
-
-| 😲 Full Open Eyes | Robi’s normal state |
-| 😉 Shiny Eyes | Robi’s excited state |
-| 🙈 Blinking | Robi’s idle blinking |
-| 🔁 Random Modes | Includes additional animations like helicopter and more |
+| 😲 Full Open Eyes | Robi’s normal state |  
+| 😉 Shiny Eyes | Robi’s excited state |  
+| 🙈 Blinking | Robi’s idle blinking |  
+| 🔁 Random Modes | Includes additional animations like Cat face |  
 
 ## ✨ Contributing
 Contributions are welcome! Feel free to open an issue or submit a pull request to improve the project.
